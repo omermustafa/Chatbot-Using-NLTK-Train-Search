@@ -1,5 +1,5 @@
 # Credits
-The project was created by +[Robinreni](https://github.com/robinreni96/)
+The project was created by [Robinreni](https://github.com/robinreni96/)
 
 # Changes Recently updated:
 Following changes implemented in order to run the project: 
