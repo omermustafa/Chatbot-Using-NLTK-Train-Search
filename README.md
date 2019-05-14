@@ -1,12 +1,12 @@
-#Credits
+# Credits
 The project was created by @robinreni96.
 
-#Changes Recently updated:
+# Changes Recently updated:
 Following changes implemented in order to run the project: 
--> Updated config.ini file and added database password.
--> Added database parameter explicitly in "chatbot.py" file, line 78 & 83.
--> Created database named "blogbot", table named techcrunch and sentences and populated the data using the techcrunch.csv file.
--> Updated pyMySQL method in "utils.py" file.
++ Updated config.ini file and added database password.
++ Added database parameter explicitly in "chatbot.py" file, line 78 & 83.
++ Created database named "blogbot", table named techcrunch and sentences and populated the data using the techcrunch.csv file.
++ Updated pyMySQL method in "utils.py" file.
 
 # ChatBot-Using-NLTK
 The name of the ChatBot is PyBot because I love to do anything with python and made the whole project with it.This PyBot can learn reply from you intially and can reply to you on the next occurence .The main feature is it is a BlogBot where it contains a blogpage Database and it can reply to user query regarding to their blog.
